@@ -63,7 +63,8 @@ button{
 }
 #foot{
     text-align: center;
-    font-size: medium;background-color: lightskyblue;
+    font-size: medium;
+    background-color: lightskyblue;
     border: 20px ;
-    padding: 20px;
+    padding: 20px ;
 }
